@@ -1,0 +1,12 @@
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.AssemblyReference.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.SuggestedBindingRedirects.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Form1.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23217714\Desktop\Final\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Form2.resources
